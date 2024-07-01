@@ -1,6 +1,6 @@
 <h1 align='center'>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZjazdsNTVsbHljMm9kaW5xbWYzNWI1Z2kwN21rM21nMHg3NXJpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRhcW4zZGZrZmJnNDltMGttcGE0NjJvcWpubjlmanVtNzNjbGU3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="300"/>
 </div>
 <div id="badges">
   <a href="https://t.me/Alex_Dubrovsky">
