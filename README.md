@@ -31,7 +31,7 @@
 
 
 **Контакты:** <br />
-[Telegram]([https://t.me/Alex_Dubrovsky])<br />
+[Telegram](https://t.me/Alex_Dubrovsky)<br />
 [Email](mailto:lewarx@yandex.ru)<br />
 
 
