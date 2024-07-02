@@ -63,3 +63,13 @@ Community lead в группе: поддерживал боевой дух, ок
 <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
+
+--
+
+Образование:
+
+Высшее 
+
+Нижегородский Государственный Педагогический Университет 
+
+Специалист Экономики и права - 2009-2014
