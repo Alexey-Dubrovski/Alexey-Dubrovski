@@ -23,49 +23,43 @@
 
 :woman_technologist: Немного о себе:
 
-Начинал с изучения Python. В процессе всё глубже и глубже погружался в тематику IT и пришел к выводу, что кайфую от тестирования. Прошел курс "Инженер по тестированию" в Яндекс.Практикуме, понял, в какую сторону хочу двигаться. Именно поэтому выше написано: "Пока что Manual" :)
+Начинал с изучения Python на Stepik. Погружаясь в мир IT, понял, что самое близкое для меня - тестирование. Прошел курс "Инженер по тестированию" в Яндекс.Практикуме, где был лидером группы. Стремлюсь к развитию в QA и готов приносить пользу команде.
 
 :man_student: Яндекс.Практикум:
 
 Начал обучение имея за спиной знания о Python, теоретических знаний о Тестировании в целом.
-В первые же недели назначили community lead'ом всей группы. 
-В обязанности входило: 
-1. Поддержание боевого духа
-2. Помощь в обучении, по возможности
-3. Ну и игры/развлечения в общем чате.
+Community lead в группе: поддерживал боевой дух, оказывал помощь в обучении и организовывал развлечения в чате.
 
-Скажу честно, с играми и развлечениями, меня хватило на 2 спринта. НО, с обучением, студенты не дадут соврать, я справился на УРА.
-Спринты длились 3 недели. Через 1,5 недели с начала спринта я сдавал проект и остальные 1,5 недели подтягивал всех остальных. (Считаю это своим достижением :))
-Дипломную работу сдал за месяц до дедлайна.
-
+Успешно справился с учебными проектами: выполнял проекты раньше срока и помогал коллегам догонять.
 
 ### Собственно сам дипломный проект:
 **[Яндекс Самокат](https://docs.google.com/spreadsheets/d/1fZTffKkY9qf2ahG0s8HX9owCEGtNwiPoreayaQvn8Wc/edit?gid=943703744#gid=943703744)**
 
 
-В процессе всего обучения:
-1. Анализировали документацию по проектам (Яндекс.Маршруты (Вэб), Яндекс.Метро(Мобилка), Яндекс.Прилавок(API), Яндекс.Самокат(Вэб, мобилка, API))
-2. Анализировали и писали проверки по макетам из Figma
-3. Писали тест-кейсы, чек-листы
-4. Заводили баг-репорты в YouTrack
-5. Подменяли ответы от бекэнда через Charles
-6. Отправляли запросы через Postman
-7. Эмулировали вирутальное устройство через Android Studio
-8. Изменяли таблицы в базах данных через Cygwin
+В процессе всего обучения поработал с 5 приложениями от Яндекса:
+- Тестирование веб-приложения Яндекс.Маршруты: составление тест-кейсов, тестирование, баг-репорты в YouTrack.
+- Расширенное тестирование Яндекс.Маршруты: работа с макетами в Figma, чек-листы, подмена запросов через Charles.
+- Тестирование мобильного приложения Яндекс.Метро: использование Android Studio, регрессионное тестирование.
+- Тестирование API Яндекс.Продукты: работа с API через Postman, баг-репорты в YouTrack.
+- Написание SQL-запросов через PostgreSQL, работа с базами данных через Cygwin.
+- Дипломный проект: Тестирование приложения Яндекс.Самокат (веб, мобильная версия, бэкенд, база данных).
 
+Приобрел навыки:
+- анализ ТЗ
+- анализ требований к API
+- написание тест-кейсов
+- написание чек-листов
+- составление баг-репортов
+- написание запросов на SQL
+- эмулирование устройств
 
 ---
 
-### Инструменты:
+### Изучил и научился работать с инструментами:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre Badge"/>
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
-<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Apidoc-blue?style=for-the-badge&logo=Apidoc&logoColor=white" alt="Apidoc"/>
 <img src="https://img.shields.io/badge/Cygwin/Terminal-4D4D4D?style=for-the-badge&logo=Cygwin/Terminal&logoColor=white" alt="Cygwin/Terminal"/>
 <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
