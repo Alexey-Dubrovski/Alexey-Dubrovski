@@ -1,6 +1,6 @@
 <h1 align='center'>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRhcW4zZGZrZmJnNDltMGttcGE0NjJvcWpubjlmanVtNzNjbGU3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pncjM1eTYwMzc1ZXY1ZjQ4bGdxZHNtMWl2aWJjdXpka3NxYmlvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RsZ3PEHTxJp9zjTZ0C/giphy.gif" width="300"/>
 </div>
 <div id="badges">
   <a href="https://t.me/Alex_Dubrovsky">
@@ -40,7 +40,7 @@
 
 
 ### Собственно сам дипломный проект:
-**[Яндекс Самокат](htgithub.com/Shvarikova-Elena/Yandex.Scooter)**
+**[Яндекс Самокат](https://docs.google.com/spreadsheets/d/1fZTffKkY9qf2ahG0s8HX9owCEGtNwiPoreayaQvn8Wc/edit?gid=943703744#gid=943703744)**
 
 
 В процессе всего обучения:
